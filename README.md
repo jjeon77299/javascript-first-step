@@ -12,5 +12,6 @@ var는 javascript의 변수을 선언 할 수 있는 문법이다. ex) var i = 0
 
 ![image](https://user-images.githubusercontent.com/97486359/173514197-7dde8af6-2aa3-4b77-b183-daa022252a3f.png)
 
+switch case 문을 이용해 문자을 숫자로 만들고 컴퓨터에서 난수를 발생한다. <br>그 후 if 문을 사용해 내가 입력한 숫자와 컴퓨터와 난수로 발생한 숫자가 같은 경우에는 맞는다는 이미지를 출력하 고 나머지 경우에는 다른 이미지를 출력한다.
 
 ![image](https://user-images.githubusercontent.com/97486359/173514256-9628b606-2c91-411d-afd7-892e17234fba.png)
