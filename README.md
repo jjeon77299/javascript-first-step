@@ -5,7 +5,7 @@
 var는 javascript의 변수을 선언 할 수 있는 문법이다. ex) var i = 0;
 
 ![image](https://user-images.githubusercontent.com/97486359/173486113-669497f9-5411-4a5f-8fe5-8df03e852bba.png) <br>
-이중 반복문을 사용해 테이블을 만들수있다.
+이중 반복문을 사용해 테이블을 만들수있다.<br>
 ![image](https://user-images.githubusercontent.com/97486359/173486138-0cea7c1e-4202-4e8b-9884-5979b2400171.png)
 
 <h1>2. 가위바위보 게임</h1>
