@@ -28,10 +28,10 @@ time 파일<br>
 
 <h4>결과화면</h4>
 
-기본화면<br>
-![image](https://user-images.githubusercontent.com/97486359/174732540-c333d32b-c09c-4616-8d6e-5875795475f2.png)<br>
-GO버튼 클릭<br>
-![image](https://user-images.githubusercontent.com/97486359/174728110-da290e8c-8e56-4fbf-a253-69e195fc8a77.png)<br>
+기본화면<br><br>
+![image](https://user-images.githubusercontent.com/97486359/174732540-c333d32b-c09c-4616-8d6e-5875795475f2.png)
+GO버튼 클릭<br><br>
+![image](https://user-images.githubusercontent.com/97486359/174728110-da290e8c-8e56-4fbf-a253-69e195fc8a77.png)
 
 <h3>코드 설명</h3>
 
