@@ -39,7 +39,7 @@ GO버튼 클릭<br><br>
 
 ![image](https://user-images.githubusercontent.com/97486359/174740457-01552fca-b7ce-4b8d-9dce-aa3ec0cca579.png) <br>
 
-handleIId변수를 만들고 Dom메서드을 이용해 html의 id을 가져온다. <br>
+handleIId변수를 만들고 Dom메서드을 이용해 html파일에  id을 가져온다. <br>
 
 ![image](https://user-images.githubusercontent.com/97486359/174740974-9e0371f1-2114-4175-a16d-6d966f2f38f0.png) <br> <br>
 
