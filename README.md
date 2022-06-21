@@ -35,19 +35,15 @@ GO버튼 클릭<br><br>
 ![image](https://user-images.githubusercontent.com/97486359/174740206-314707b6-5f03-442a-86bf-2169e5ff6881.png)
 ![image](https://user-images.githubusercontent.com/97486359/174740256-c9bdfd15-24b3-4a88-83f1-f29507b2098b.png)
 
-
-
-
-
 <h3>코드 설명</h3>
 
 ![image](https://user-images.githubusercontent.com/97486359/174740457-01552fca-b7ce-4b8d-9dce-aa3ec0cca579.png) <br>
 
-handleIId변수을 만들고 Dom메소드을 이용해 html의 id을 가져온다. <br>
+handleIId변수를 만들고 Dom메서드을 이용해 html의 id을 가져온다. <br>
 
 ![image](https://user-images.githubusercontent.com/97486359/174740974-9e0371f1-2114-4175-a16d-6d966f2f38f0.png) <br> <br>
 
-Date함수를 이용해 시, 분, 초을 각각의 변수에 저장해 하나로 합치고 time파일의 \<h1>방식으로 출력합니다. <br> <br>
+Date객제를 이용해 시, 분, 초을 각각의 변수에 저장해 하나로 합치고 time파일의 \<h1>방식으로 출력합니다. <br> <br>
 ![image](https://user-images.githubusercontent.com/97486359/174741033-75459233-1d32-4bdf-95ee-b505a6ae14f8.png) <br> <br>
 
 그 후 만약 GO를 클릭했을 때 go.onclick 함수에 있는 setInterval를 사용해 1초에 한 번 현재의 시간을 가져오는 작업을 진행합니다. <br> <br>
