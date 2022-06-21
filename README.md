@@ -34,5 +34,7 @@ time 파일
 GO버튼 클릭<br>
 ![image](https://user-images.githubusercontent.com/97486359/174728110-da290e8c-8e56-4fbf-a253-69e195fc8a77.png)
 
-date함수를 불려와 시, 분, 초을 각각의 변수에 저장해 하나로 합쳐 만약 GO를 클릭했을 때 go.onclick 함수에 있는 setInterval를 사용해 1초에 한 번 초기화하는 작업을 진행한다.
+<h3>코드 설명</h3>
+
+Date함수를 불려와 시, 분, 초을 각각의 변수에 저장해 하나로 합쳐 만약 GO를 클릭했을 때 go.onclick 함수에 있는 setInterval를 사용해 1초에 한 번 초기화하는 작업을 진행한다.
 또한 STOP을 클릭하면 stop.onclick안에 있는 clearInterval를 사용해 시계를 멈춘다.
