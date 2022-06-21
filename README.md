@@ -16,4 +16,23 @@ switch case 문을 이용해 문자을 숫자로 만들고 컴퓨터에서 난�
 
 ![image](https://user-images.githubusercontent.com/97486359/173514256-9628b606-2c91-411d-afd7-892e17234fba.png)
 
-<h1>2. 이중 반복문</h1>
+<h1>3. 실시간 시계</h1>
+
+script 파일 <br>
+
+![image](https://user-images.githubusercontent.com/97486359/174727430-4e67a03f-df58-4d3a-9995-a777adfe8634.png)
+
+time 파일
+
+![image](https://user-images.githubusercontent.com/97486359/174727530-0768dbc1-6270-483f-96db-1398141f3891.png)
+
+<h4>결과화면</h4>
+
+기본화면
+![image](https://user-images.githubusercontent.com/97486359/174727988-71d12dae-2b2a-4749-ad71-f19c02f73c3a.png)
+
+GO버튼 클릭
+![image](https://user-images.githubusercontent.com/97486359/174728110-da290e8c-8e56-4fbf-a253-69e195fc8a77.png)
+
+date함수를 불려와 시, 분, 초을 각각의 변수에 저장해 하나로 합쳐 만약 GO를 클릭했을 때 go.onclick 함수에 있는 setInterval를 사용해 1초에 한 번 초기화하는 작업을 진행한다.
+또한 STOP을 클릭하면 stop.onclick안에 있는 clearInterval를 사용해 시계를 멈춘다.
