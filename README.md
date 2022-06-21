@@ -29,8 +29,7 @@ time 파일
 <h4>결과화면</h4>
 
 기본화면
-![image](https://user-images.githubusercontent.com/97486359/174727988-71d12dae-2b2a-4749-ad71-f19c02f73c3a.png)
-
+![image](https://user-images.githubusercontent.com/97486359/174732540-c333d32b-c09c-4616-8d6e-5875795475f2.png)
 GO버튼 클릭<br>
 ![image](https://user-images.githubusercontent.com/97486359/174728110-da290e8c-8e56-4fbf-a253-69e195fc8a77.png)
 
