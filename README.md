@@ -22,16 +22,16 @@ script 파일 <br>
 
 ![image](https://user-images.githubusercontent.com/97486359/174727430-4e67a03f-df58-4d3a-9995-a777adfe8634.png)
 
-time 파일
+time 파일<br>
 
 ![image](https://user-images.githubusercontent.com/97486359/174727530-0768dbc1-6270-483f-96db-1398141f3891.png)
 
 <h4>결과화면</h4>
 
-기본화면
-![image](https://user-images.githubusercontent.com/97486359/174732540-c333d32b-c09c-4616-8d6e-5875795475f2.png)
+기본화면<br>
+![image](https://user-images.githubusercontent.com/97486359/174732540-c333d32b-c09c-4616-8d6e-5875795475f2.png)<br>
 GO버튼 클릭<br>
-![image](https://user-images.githubusercontent.com/97486359/174728110-da290e8c-8e56-4fbf-a253-69e195fc8a77.png)
+![image](https://user-images.githubusercontent.com/97486359/174728110-da290e8c-8e56-4fbf-a253-69e195fc8a77.png)<br>
 
 <h3>코드 설명</h3>
 
