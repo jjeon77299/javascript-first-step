@@ -24,7 +24,7 @@ script 파일 <br>
 
 time 파일<br>
 
-![image](https://user-images.githubusercontent.com/97486359/174727530-0768dbc1-6270-483f-96db-1398141f3891.png)
+![image](https://user-images.githubusercontent.com/97486359/174742041-d8af8516-5fdb-4d03-99b8-ac756f7c8ef9.png)
 
 <h4>결과화면</h4>
 
