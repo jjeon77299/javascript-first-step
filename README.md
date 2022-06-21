@@ -36,6 +36,6 @@ GO버튼 클릭<br>
 
 <h3>코드 설명</h3>
 
-script파일에서 Date함수를 이용해 시, 분, 초을 각각의 변수에 저장해 하나로 합치고 time파일의 "<h1>"방식으로 출력다.
+script파일에서 Date함수를 이용해 시, 분, 초을 각각의 변수에 저장해 하나로 합치고 time파일의 \<h1>\방식으로 출력다.
 그 후 만약 GO를 클릭했을 때 go.onclick 함수에 있는 setInterval를 사용해 1초에 한 번 현재의 시간을 가져오는 작업을 진행합니다.
 또한 STOP을 클릭하면 stop.onclick안에 있는 clearInterval를 사용해 시계를 멈출 수 있습니다.
