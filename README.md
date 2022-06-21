@@ -45,12 +45,12 @@ GO버튼 클릭<br><br>
 
 handleIId변수을 만들고 Dom메소드을 이용해 html의 id을 가져온다. <br>
 
-![image](https://user-images.githubusercontent.com/97486359/174740974-9e0371f1-2114-4175-a16d-6d966f2f38f0.png) <br>
+![image](https://user-images.githubusercontent.com/97486359/174740974-9e0371f1-2114-4175-a16d-6d966f2f38f0.png) <br> <br>
 
-script파일에서 Date함수를 이용해 시, 분, 초을 각각의 변수에 저장해 하나로 합치고 time파일의 \<h1>방식으로 출력합니다. <br>
-![image](https://user-images.githubusercontent.com/97486359/174741033-75459233-1d32-4bdf-95ee-b505a6ae14f8.png) <br>
+script파일에서 Date함수를 이용해 시, 분, 초을 각각의 변수에 저장해 하나로 합치고 time파일의 \<h1>방식으로 출력합니다. <br> <br>
+![image](https://user-images.githubusercontent.com/97486359/174741033-75459233-1d32-4bdf-95ee-b505a6ae14f8.png) <br> <br>
 
-그 후 만약 GO를 클릭했을 때 go.onclick 함수에 있는 setInterval를 사용해 1초에 한 번 현재의 시간을 가져오는 작업을 진행합니다. <br>
-![image](https://user-images.githubusercontent.com/97486359/174741074-428336b8-ce4b-4321-aaa1-2e563b2accf9.png) <br>
+그 후 만약 GO를 클릭했을 때 go.onclick 함수에 있는 setInterval를 사용해 1초에 한 번 현재의 시간을 가져오는 작업을 진행합니다. <br> <br>
+![image](https://user-images.githubusercontent.com/97486359/174741074-428336b8-ce4b-4321-aaa1-2e563b2accf9.png) <br> <br>
 
 또한 STOP을 클릭하면 stop.onclick안에 있는 clearInterval를 사용해 시계를 멈출 수 있습니다.
