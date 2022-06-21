@@ -32,6 +32,7 @@ time 파일<br>
 ![image](https://user-images.githubusercontent.com/97486359/174732540-c333d32b-c09c-4616-8d6e-5875795475f2.png)
 GO버튼 클릭<br><br>
 ![image](https://user-images.githubusercontent.com/97486359/174728110-da290e8c-8e56-4fbf-a253-69e195fc8a77.png)
+![image](https://user-images.githubusercontent.com/97486359/174733183-f72123ab-2039-418a-95d2-1b08ef149ec9.png)
 
 
 
